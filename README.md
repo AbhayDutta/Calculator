@@ -54,4 +54,4 @@ If you find this useful, give it a ⭐ on GitHub!
 
 ---
 
-## 🔥 Made with ❤️ by Abhay Dutta
+## 🚀 Do your arithmetic operations easily
